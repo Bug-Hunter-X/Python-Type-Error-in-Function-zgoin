@@ -1,0 +1,1 @@
+This repository contains a simple Python program demonstrating a common type error that occurs when adding an integer and a string. The solution shows how to convert the string to an integer to avoid the error. The bug.py file contains the buggy code and the bugSolution.py file contains the corrected code.
